@@ -1,0 +1,57 @@
+body {
+	background-color: #353C51  
+}
+
+a {
+	color: #C70039;
+	font-family: Arial;
+	font-size: 24px;
+	text-decoration: none;
+	margin: 12px;
+}
+
+#tab {
+	width: 100%;
+}
+
+
+#cell100,{
+}
+
+#cell80{
+	width: 80%;
+}
+
+#cell20{
+	background-color: #C70039
+}
+
+.link{
+	display: block
+}
+
+.parag{
+	color: white;
+	font-size: 20;
+	font-family: Arial
+}
+
+#scoreboard {
+	font-family: arial;
+	border-collapse: collapse;
+	width: 50%;
+	background-color: white
+}
+
+.peop:nth-child(even) {
+	background-color: #C70039;
+	border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+.people{
+	border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
